@@ -1,6 +1,6 @@
 # The_Spark_Foundation
 
-# Data Science & Analytics Tasks
+### Data Science & Analytics Tasks
 
 # 1 Prediction using Supervised Machine Learning
 
