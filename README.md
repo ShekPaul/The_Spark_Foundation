@@ -1,8 +1,8 @@
 # The_Spark_Foundation
 
-# Data Science & Business Analytics Tasks
+# Data Science & Analytics Tasks
 
-#1 Prediction using Supervised Machine Learning
+# 1 Prediction using Supervised Machine Learning
 
 ● Predict the percentage of marks of an student based on the number of study hours
 
